@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning React, Next Js
 - 💞️ I’m looking to collaborate on Front-end projects 
 - 📫 How to reach me getaniruddha.pathak@gmail.com
-- ⚡ Fun fact: teach me how to code, and I will provide you fun little trinkets xD
+
